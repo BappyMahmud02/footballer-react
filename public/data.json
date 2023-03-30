@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Cristiano Ronaldo",
+        "id": "CR7-001",
+        "image": "./cr7.png",
+        "price": 1000
+    },
+    {
+        "name": "Lionel Messi",
+        "id": "LM10-002",
+        "image": "./messi.png",
+        "price": 900
+    },
+    {
+        "name": "Neymar Jr.",
+        "id": "NJr-003",
+        "image": "./Neymar.png",
+        "price": 8000
+    },
+    {
+        "name": "Mbappe",
+        "id": "CR7-001",
+        "image": "./mbappe.jpg",
+        "price": 1000
+    },
+    {
+        "name": "kaka",
+        "id": "LM10-002",
+        "image": "./kaka.png",
+        "price": 6000
+    },
+    {
+        "name": "Ronaldinho",
+        "id": "Rnr-003",
+        "image": "./ronaldinho.jpg",
+        "price": 70000
+    }
+]
